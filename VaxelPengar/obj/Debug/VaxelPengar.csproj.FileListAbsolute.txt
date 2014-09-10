@@ -1,9 +1,1 @@
 P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\VaxelPengar\VaxelPengar\bin\Debug\VaxelPengar.exe.config
-P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\VaxelPengar\VaxelPengar\obj\Debug\VaxelPengar.csprojResolveAssemblyReference.cache
-P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\VaxelPengar\VaxelPengar\bin\Debug\VaxelPengar.exe
-P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\VaxelPengar\VaxelPengar\bin\Debug\VaxelPengar.pdb
-P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\VaxelPengar\VaxelPengar\obj\Debug\VaxelPengar.exe
-P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\VaxelPengar\VaxelPengar\obj\Debug\VaxelPengar.pdb
-P:\csharp\steg1-1\VaxelPengar\VaxelPengar\bin\Debug\VaxelPengar.exe.config
-P:\csharp\steg1-1\VaxelPengar\VaxelPengar\obj\Debug\VaxelPengar.exe
-P:\csharp\steg1-1\VaxelPengar\VaxelPengar\obj\Debug\VaxelPengar.pdb
